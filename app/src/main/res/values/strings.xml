@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">login appcompose</string>
+    <string name="name">ADARSH</string>
+    <string name="title">Android Developer</string>
+    <string name="telephone_number">7670905580</string>
+    <string name="facebook">Facebook</string>
+    <string name="Instagram">Instagram</string>
+    <string name="location">RGUKT Ongole Campus ,Prakasam District,Andhra Pradesh -523225.</string>
+    <string name="Contactusat">Contact us at</string>
+    <string name="email">Adarshroyal369@gmail.com</string>
+    <string name="IIITOngole">Android developer</string>
+</resources>
